@@ -1,0 +1,40 @@
+
+	Topics:
+		--Developing USB device driver
+		--Developing mass storage device driver	
+		--USB Specifications and protocol
+		--Developing a block device driver
+		--Additionally, the driver can be mapped to learn SCSI drivers
+
+
+	Topics in detail:
+
+		-- Introduction
+
+		-- Driver development setup
+
+		-- Understanding USB devices
+
+		-- Developing USB  driver
+
+		-- Understanding mass storage device control commands
+		
+		-- Adding mass storage device control commands to USB driver
+
+		-- Understanding USB specifications and protocol
+
+		-- Understanding the URB
+
+		-- Developing CBW abd device communication functions
+
+		-- Talking to USB devices
+			
+		-- Adding block device driver interface to USB driver
+	
+		-- Troubleshooting
+
+		-- Assignments 
+
+		-- References
+
+	
